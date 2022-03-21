@@ -1,6 +1,6 @@
 # Hi there, I'm Luis Ariza 👋
 
-## I'm a Student, Tech enthusiast and Developer!!
+### I'm a Student, Tech enthusiast and Developer!!
 
 - 🔭 Check out my Blog about HTML, CSS and web design: [Become a web designer][website]!
 - 🌱 I’m currently learning everything about web development
@@ -53,10 +53,20 @@
 
 ---
 
-### ⚡ Activities
+### ⚡ Top languages
+  <img align="left" alt="luisAriza's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisAriza&langs_count=10&layout=compact&exclude_repo=game_tres_en_raya&card_width=500px" />
+  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<img align="left" alt="luisAriza's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisAriza&langs_count=8&layout=compact&exclude_repo=game_tres_en_raya&card_width=400px" />
-<img align="right" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### ⚡ GitHub Stats
+  <img align="left" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://luisariza.github.io/portfolio/
 [platzi]: https://platzi.com/p/luisAriza_codev/
