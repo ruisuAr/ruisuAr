@@ -1,16 +1,22 @@
 # Hi there, I'm Luis - aka [luisAriza-codev][website] 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Tech enthusiast and Developer!!
 
 - 🔭 Check out my Blog about HTML, CSS and web design: [Become a web designer][website]!
 - 🌱 I’m currently learning everything about web development
 - ⚡ Fun fact: I love video games and play guitar
 - 🥅 2022 Goals: Learn more about web design and back-end (with nodeJs)
 <!-- - 👯 I’m looking to collaborate with other content creators -->
+
+### Platzi's profile:
+
+[<img align="left" alt="Platzi" width="30px" src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" />][platzi]
+
+<br />
 
 ### Connect with me:
 
@@ -22,6 +28,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/luisAriza_codev#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/luisAriza_codev#gh-dark-mode-only)
+
 <!-- &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
@@ -46,8 +53,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 
-[<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only)
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)
