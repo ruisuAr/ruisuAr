@@ -1,4 +1,10 @@
-# Hi there, I'm Luis Ariza 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Luis+Ariza+👋&vCenter=true&size=32&color=ff652f&duration=3000&width=800)](#)
+
+[![Repos Badge](https://badges.pufler.dev/repos/luisAriza)](https://github.com/luisAriza?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/luisAriza)](#)
+
+
+
 
 ### I'm a Student, Tech enthusiast and Developer!!
 
