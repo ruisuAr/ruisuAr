@@ -3,14 +3,11 @@
 [![Repos Badge](https://badges.pufler.dev/repos/luisAriza)](https://github.com/luisAriza?tab=repositories)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/luisAriza)](#)
 
-
-
-
 ### I'm a Student, Tech enthusiast and Developer!!
 
-- 🔭 Check out my Blog about HTML, CSS and web design: [Become a web designer][website]!
+- 🔭 Check out my Blog about HTML, CSS and JavaScript: [Become a web developer][website]!
 - 🌱 I’m currently learning everything about web development
-- ⚡ Fun fact: I love video games and play guitar
+- ⚡ Fun fact: I love sports and play guitar
 - 🥅 2022 Goals: Learn more about web design and back-end (with nodeJs)
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 
