@@ -27,15 +27,16 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luisariza-codev#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luisariza-codev#gh-dark-mode-only)
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/luisAriza_codev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/luisAriza_codev#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/luisAriza_codev#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="npm" width="36px" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" style="padding-right:10px;" />](#)
 [<img align="left" alt="Pug" width="40px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Stylus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" style="padding-right:10px;" />](#)
