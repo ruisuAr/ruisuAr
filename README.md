@@ -30,26 +30,26 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="npm" width="36px" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="Pug" width="40px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Pug" width="36px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Sass" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Stylus" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" style="padding-right:10px;" />](#)
 
 <br />
 <br />
 <br />
 
-[<img align="left" alt="Stylus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Gulp" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="Webpack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="GitHub" width="40px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="40px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="40px" src="./img/terminal-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="40px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)
+[<img align="left" alt="Gulp" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" style="padding-right:10px;" />](#)
+[<img align="left" alt="Webpack" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="GitHub" width="36px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="36px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="36px" src="./img/terminal-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="36px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)
 <!-- [![Terminal](./img/terminal-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only) -->
 
 <!-- [<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website] -->
