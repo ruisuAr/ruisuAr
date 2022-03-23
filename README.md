@@ -49,8 +49,8 @@
 [<img align="left" alt="GitHub" width="40px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="40px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="40px" src="./img/terminal-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
-<!-- [<img align="left" alt="Terminal" width="40px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only) -->
-[![Terminal](./img/terminal-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="40px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)
+<!-- [![Terminal](./img/terminal-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only) -->
 
 <!-- [<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website] -->
 <!-- [<img align="left" alt="Gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][website] -->
