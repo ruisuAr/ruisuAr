@@ -44,7 +44,8 @@
 [<img align="left" alt="GitHub" width="40px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="40px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="40px" src="./img/terminal-light.svg" />](https://luisariza.github.io/portfolio#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="40px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only)...
+<!-- [<img align="left" alt="Terminal" width="40px" src="./img/terminal-dark.svg" />](https://luisariza.github.io/portfolio#gh-dark-mode-only) -->
+[![Terminal](./img/terminal-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only)
 
 <!-- [<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website] -->
 <!-- [<img align="left" alt="Gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][website] -->
@@ -56,20 +57,14 @@
 
 ---
 
-<details open>
-  <summary> ⚡ Top languages </summary>
-  
-  <img align="left" alt="luisAriza's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisAriza&langs_count=10&layout=compact&exclude_repo=game_tres_en_raya&card_width=500px" />
-  
-</details>
+### ⚡ Top languages
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luisAriza&langs_count=10&layout=compact&exclude_repo=game_tres_en_raya&card_width=500px)
 
-<details open>
-  <summary> ⚡ GitHub Stats </summary>
+### ⚡ GitHub Stats
   
-  <img align="left" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>  
 
 [website]: https://luisariza.github.io/portfolio/
 [platzi]: https://platzi.com/p/luisAriza_codev/
