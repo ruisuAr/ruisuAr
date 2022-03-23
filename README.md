@@ -22,11 +22,11 @@
 [![website](./img/globe-light.svg)](https://luisariza.github.io/portfolio#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luisariza-codev#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luisariza-codev#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luisariza-dev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luisariza-dev#gh-dark-mode-only)
 <!-- &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/luisAriza_codev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/luisAriza_codev#gh-dark-mode-only) -->
+[![website](./img/instagram-light.svg)](https://instagram.com/luisAriza_dev#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/luisAriza_dev#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
@@ -72,7 +72,7 @@
 
 
 [website]: https://luisariza.github.io/portfolio/
-[platzi]: https://platzi.com/p/luisAriza_codev/
+[platzi]: https://platzi.com/p/luisAriza/
 [youtube]: none
-[instagram]: https://instagram.com/luisariza_codev/
-[linkedin]: https://linkedin.com/in/luisariza-codev/
+[instagram]: https://instagram.com/luisariza_dev/
+[linkedin]: https://linkedin.com/in/luisariza-dev/
