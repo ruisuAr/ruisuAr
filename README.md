@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://luisariza.github.io/portfolio#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://luisariza.github.io/portfolio#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://luisariza.github.io/math_webSite#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://luisariza.github.io/math_webSite#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luisariza-dev#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luisariza-dev#gh-dark-mode-only)
@@ -69,7 +69,7 @@
 <img align="left" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-[website]: https://luisariza.github.io/portfolio/
+[website]: https://luisariza.github.io/math_webSite/
 [platzi]: https://platzi.com/p/luisAriza/
 [youtube]: none
 [instagram]: https://instagram.com/luisariza_dev/
