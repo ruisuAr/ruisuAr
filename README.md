@@ -1,9 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Luis+Ariza+👋&vCenter=true&size=32&color=ff652f&duration=5000&width=800)](https://www.linkedin.com/in/luisariza-dev/)
 
-[![Repos Badge](https://badges.pufler.dev/repos/luisAriza)](https://github.com/luisAriza?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/luisAriza)](#)
-
-### I'm a Student, Tech enthusiast and Developer!!
+### I'm Frontend Developer and tech enthusiast!!
 
 <!-- - 🔭 Check out my Blog about HTML, CSS and JavaScript: [Become a web developer][website]! -->
 - 🌱 I’m currently learning everything about web development
