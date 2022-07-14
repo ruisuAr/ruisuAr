@@ -5,7 +5,7 @@
 <!-- - 🔭 Check out my Blog about HTML, CSS and JavaScript: [Become a web developer][website]! -->
 - 🌱 I’m currently learning everything about web development
 - ⚡ Fun fact: I love sports and play guitar
-- 🥅 2022 Goals: Learn more about web design and ReacJs
+- 🥅 2022 Goals: Learn more about web design, ReacJs and VueJs
 
 ### Platzi's profile
 
