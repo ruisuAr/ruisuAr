@@ -43,9 +43,10 @@
 [<img align="left" alt="Sass" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Tailwind" width="36px" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.6.1/1620805955090/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />](#)
-[<img align="left" alt="Web Components" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/web-components-dot-org-3521801-2945218.png" style="padding-right:10px;"  />](#)
+[<img align="left" alt="Vue" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 
+<!-- [<img align="left" alt="Web Components" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/web-components-dot-org-3521801-2945218.png" style="padding-right:10px;"  />](#) -->
 <!-- [<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="GitHub" width="36px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="36px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only) -->
