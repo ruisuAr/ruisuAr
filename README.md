@@ -5,7 +5,7 @@
 <!-- - 🔭 Check out my Blog about HTML, CSS and JavaScript: [Become a web developer][website]! -->
 - 🌱 I’m currently learning everything about web development
 - ⚡ Fun fact: I love sports and play guitar
-- 🥅 2022 Goals: Learn more about web design, ReacJs and VueJs
+- 🥅 2022 Goals: Learn more about **ReacJs**, **VueJs**, **OPP**, **Async/Await** and **Data structures**
 
 ### Platzi's profile
 
@@ -33,8 +33,6 @@
 [<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Webpack" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />](#)
 
-<!-- [<img align="left" alt="Stylus" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" style="padding-right:10px;" />](#) -->
-
 <br />
 <br />
 <br />
@@ -46,7 +44,6 @@
 [<img align="left" alt="Vue" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Vite" width="36px" src="https://static.platzi.com/media/tmp/class-files/github/curso-vite/curso-vite-04-setup-inicial/vite-logo.png" style="padding-right:10px;" />](#)
 
-<!-- [<img align="left" alt="Web Components" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/web-components-dot-org-3521801-2945218.png" style="padding-right:10px;"  />](#) -->
 <!-- [<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="GitHub" width="36px" src="./img/github-light.svg" />](https://github.com/luisAriza#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="36px" src="./img/github-dark.svg" />](https://github.com/luisAriza#gh-dark-mode-only) -->
@@ -67,7 +64,7 @@
 <img align="left" alt="luisAriza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luisAriza&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-[website]: https://luisariza.github.io/math_webSite/
+[website]: https://luisariza.github.io/portfolio/
 [platzi]: https://platzi.com/p/luisAriza/
 [youtube]: none
 [instagram]: https://instagram.com/luisariza_dev/
