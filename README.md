@@ -6,7 +6,7 @@ Web designer and developer
 
 * 🌍  I'm based in Valledupar
 * 🖥️  See my portfolio at [luisariza.com](http://www.luisariza.com)
-* ✉️  You can contact me at [luisman.ariza@gmail.com](mailto:luisman.ariza@gmail.com)
+* ✉️  You can contact me at [luisman.ariza@gmail.com](mailto:luismanuelariza@hotmail.com)
 * 🧠  I'm learning VueJs
 
 ### Skills
