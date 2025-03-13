@@ -6,7 +6,7 @@ Web designer and developer
 
 * 🌍  I'm based in Bucaramanga
 * 🖥️  See my portfolio at [luisariza.com](http://www.luisariza.com)
-* ✉️  You can contact me at [luismanuelariza@gmail.com](mailto:luismanuelariza@hotmail.com)
+* ✉️  You can contact me at [luismanuelariza@hotmail.com](mailto:luismanuelariza@hotmail.com)
 * 🧠  I'm learning NodeJs
 
 ### Skills
