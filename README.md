@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web designer and developer
 --------------------------
 
-* 🌍  I'm based in Valledupar
+* 🌍  I'm based in Bucaramanga
 * 🖥️  See my portfolio at [luisariza.com](http://www.luisariza.com)
-* ✉️  You can contact me at [luisman.ariza@gmail.com](mailto:luismanuelariza@hotmail.com)
-* 🧠  I'm learning VueJs
+* ✉️  You can contact me at [luismanuelariza@gmail.com](mailto:luismanuelariza@hotmail.com)
+* 🧠  I'm learning NodeJs
 
 ### Skills
 
