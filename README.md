@@ -5,8 +5,7 @@ Web designer and developer
 --------------------------
 
 * 🌍  I'm based in Bucaramanga
-* 🖥️  See my portfolio at [ruisuariza.com](https://www.ruisuariza.com)
-* ✉️  You can contact me at [luismanuelariza@hotmail.com](mailto:luismanuelariza@hotmail.com)
+* 🖥️  See my portfolio [here](https://ruisuar.netlify.app)
 * 🧠  I'm Study Software Engineering
 
 ### Skills
@@ -26,7 +25,7 @@ Web designer and developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ruisuAr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_ruisu_ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruisu-ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/ruisuAr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_ruisu_ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruisuar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
